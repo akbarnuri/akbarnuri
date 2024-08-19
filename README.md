@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarnuri&label=Profile%20views&color=0e75b6&style=flat" alt="akbarnuri" /> </p>
 
-- 🔭 I’m currently working on [Backend crowdfunding](https://github.com/akbarnuri/startup)
+ 🔭 I’m currently working on [GO Backend crowdfunding](https://github.com/akbarnuri/startup) 
 
 - 📫 How to reach me **akbarnurichfan11@gmail.com**
 
