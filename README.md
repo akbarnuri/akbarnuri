@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarnuri&label=Profile%20views&color=0e75b6&style=flat" alt="akbarnuri" /> </p>
 
- 🔭 I’m currently working on [GO Backend crowdfunding](https://github.com/akbarnuri/startup) 
+- 🌍  I'm based in Bekasi, West Java
 
-- 📫 How to reach me **akbarnurichfan11@gmail.com**
+- 📫 How to reach me [akbarnurichfan11@gmail.com](mailto:akbarnurichfan11@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://discord.com/users/synruz.project" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/akbarnur.i2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/akbarnuri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/akbarnur__i/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 <p align="left">
 </p>
 
